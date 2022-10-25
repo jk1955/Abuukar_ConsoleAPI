@@ -1,0 +1,85 @@
+https://localhost:7221/api/Class1s/
+[
+  {
+    "id": 1,
+    "player": "rondldo",
+    "teams": "manscherunited",
+    "preferdfoot": "right ",
+    "height": "187cm",
+    "weight": "83kg",
+    "nationality": "portugual",
+    "postion": "striker",
+    "salary": 26000000,
+    "age": 37
+  },
+  {
+    "id": 4,
+    "player": "Marcus Rashford",
+    "teams": "manscherunited",
+    "preferdfoot": "right ",
+    "height": "185cm ",
+    "weight": "70 kg",
+    "nationality": "englamd",
+    "postion": "Wide playmaker",
+    "salary": 10400000,
+    "age": 24
+  },
+  {
+    "id": 5,
+    "player": "Casemiro",
+    "teams": "manscherunited",
+    "preferdfoot": "right ",
+    "height": "185cm",
+    "weight": "84 kg",
+    "nationality": "brazil",
+    "postion": "Holding midfielder",
+    "salary": 10500000,
+    "age": 30
+  },
+  {
+    "id": 6,
+    "player": "rondldo",
+    "teams": "manscherunited",
+    "preferdfoot": "right ",
+    "height": "187cm",
+    "weight": "83kg",
+    "nationality": "portugual",
+    "postion": "striker",
+    "salary": 26000000,
+    "age": 37
+  },
+  {
+    "id": 7,
+    "player": "rondldo",
+    "teams": "manscherunited",
+    "preferdfoot": "right ",
+    "height": "187cm",
+    "weight": "83kg",
+    "nationality": "portugual",
+    "postion": "striker",
+    "salary": 26000000,
+    "age": 37
+  }
+]
+StatusCode: 201, ReasonPhrase: 'Created', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Date: Tue, 25 Oct 2022 21:30:46 GMT
+  Server: Kestrel
+  Location: https://localhost:7221/api/Class1s/8
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+StatusCode: 204, ReasonPhrase: 'No Content', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Date: Tue, 25 Oct 2022 21:30:46 GMT
+  Server: Kestrel
+}
+StatusCode: 204, ReasonPhrase: 'No Content', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Date: Tue, 25 Oct 2022 21:30:46 GMT
+  Server: Kestrel
+}
+
+C:\Users\jimk0\source\repos\2022-Fall-Chort\Abbuukar\consoleapp123\bin\Debug\net6.0\ConsoleApp4.exe (process 27512) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
